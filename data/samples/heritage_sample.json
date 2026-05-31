@@ -1,0 +1,30 @@
+[
+  {
+    "heritage_id": "H-0001",
+    "name_ko": "경복궁 근정전",
+    "name_en": "Geunjeongjeon Hall of Gyeongbokgung Palace",
+    "category": "궁궐",
+    "region": "서울특별시",
+    "address": "서울특별시 종로구 사직로 161",
+    "latitude": 37.5788,
+    "longitude": 126.9769,
+    "description": "조선 왕실의 중요한 의례와 국가 행사가 이루어진 경복궁의 중심 건물입니다.",
+    "representative_image_url": "https://example.com/images/geunjeongjeon.jpg",
+    "source": "sample",
+    "source_url": "https://example.com/source/geunjeongjeon"
+  },
+  {
+    "heritage_id": "H-0002",
+    "name_ko": "첨성대",
+    "name_en": "Cheomseongdae Observatory",
+    "category": "사적",
+    "region": "경상북도 경주시",
+    "address": "경상북도 경주시 인왕동",
+    "latitude": 35.8347,
+    "longitude": 129.219,
+    "description": "신라 시대 천문 관측과 관련된 대표적인 석조 구조물입니다.",
+    "representative_image_url": "https://example.com/images/cheomseongdae.jpg",
+    "source": "sample",
+    "source_url": "https://example.com/source/cheomseongdae"
+  }
+]

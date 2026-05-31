@@ -1,0 +1,22 @@
+[
+  {
+    "from_heritage_id": "H-0001",
+    "from_name": "경복궁 근정전",
+    "to_heritage_id": "H-0003",
+    "to_name": "창덕궁 인정전",
+    "relation_type": "same_category",
+    "category": "건축",
+    "reason": "두 건물 모두 조선 궁궐의 중심 전각으로, 왕권과 의례 공간의 건축적 상징성을 비교해 볼 수 있습니다.",
+    "weight": 0.92
+  },
+  {
+    "from_heritage_id": "H-0002",
+    "from_name": "첨성대",
+    "to_heritage_id": "H-0004",
+    "to_name": "경주 불국사",
+    "relation_type": "same_region",
+    "category": "과학·기술",
+    "reason": "두 유산 모두 경주 지역의 신라 문화와 기술적 성취를 함께 이해하는 데 도움이 됩니다.",
+    "weight": 0.81
+  }
+]

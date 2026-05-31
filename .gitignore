@@ -1,0 +1,47 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+
+# Logs
+*.log
+logs/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large or sensitive data
+data/raw/
+data/processed/
+data/integrated/
+data/full/
+*.csv
+*.xlsx
+
+# Allow public samples
+!data/samples/
+!data/samples/*.json
+
+# Secrets / keys
+*secret*
+*serviceKey*
+*apikey*
+*api_key*

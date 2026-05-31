@@ -1,0 +1,43 @@
+[
+  {
+    "document_id": "D-0001",
+    "heritage_id": "H-0001",
+    "title": "근정전의 건축적 의미",
+    "language": "ko",
+    "categories": [
+      "건축",
+      "왕실문화",
+      "역사"
+    ],
+    "keywords": [
+      "경복궁",
+      "근정전",
+      "궁궐",
+      "조선",
+      "왕실 의례"
+    ],
+    "clean_text": "근정전은 경복궁의 중심 전각으로, 조선 왕실의 국가 의례와 조회가 이루어진 공간이다. 건물의 배치와 월대, 단청은 왕권의 상징성을 드러낸다.",
+    "source": "sample",
+    "source_url": "https://example.com/source/geunjeongjeon"
+  },
+  {
+    "document_id": "D-0002",
+    "heritage_id": "H-0002",
+    "title": "첨성대와 신라의 과학기술",
+    "language": "ko",
+    "categories": [
+      "과학·기술",
+      "역사"
+    ],
+    "keywords": [
+      "첨성대",
+      "신라",
+      "천문",
+      "관측",
+      "석조 구조"
+    ],
+    "clean_text": "첨성대는 신라 시대 천문 관측과 관련된 구조물로 알려져 있으며, 석재를 쌓아 만든 독특한 형태가 특징이다.",
+    "source": "sample",
+    "source_url": "https://example.com/source/cheomseongdae"
+  }
+]
